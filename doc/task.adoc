@@ -54,3 +54,13 @@ Create a string data array to avoid typing loads of addItem instructions:
         String[] data = stringData.split(" ");
         for (String s : data) {
             // create new item with value set to the string s
+
+'''
+
+Binary Search Tree:
+
+In computer science, a binary search tree (BST), also called an ordered or sorted binary tree, is a rooted binary tree data structure whose internal nodes each store a key greater than all the keys in the node's left subtree and less than those in its right subtree.
+
+image::image-2022-03-17-11-09-33-940.png[]
+
+image::image-2022-03-17-11-11-13-080.png[]
