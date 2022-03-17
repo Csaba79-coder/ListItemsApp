@@ -97,6 +97,16 @@ public class MyLinkedList implements NodeList {
         }
     }
 
+    public void traverseRecursive(ListItem root) {
+        // in such kind of exercises it is not a good idea to use recursion!
+        // with very huge amount of data in a database it is not efficient ... !!! (the stacks can overflow! -> going to crash)
+        // huge amount of data's use Binary Search Tree!!!! --> efficient!
+        if (root != null) {
+            System.out.println(root.getValue());
+            traverse(root.next());
+        }
+    }
+
     public void setRoot(ListItem root) {
         this.root = root;
     }

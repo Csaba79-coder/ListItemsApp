@@ -64,3 +64,7 @@ In computer science, a binary search tree (BST), also called an ordered or sorte
 image::image-2022-03-17-11-09-33-940.png[]
 
 image::image-2022-03-17-11-11-13-080.png[]
+
+Binary Tree regarding the task (with cities) are as follows:
+
+image::image-2022-03-17-16-30-00-100.png[]
