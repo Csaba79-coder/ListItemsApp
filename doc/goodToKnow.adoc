@@ -1,0 +1,7 @@
+= Good to know!
+
+Section 9: Inner and Abstract Classes & Interfaces
+
+https://www.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/9332050#overview
+
+Lecture 132: Interface vs Abstract Class
