@@ -1,5 +1,5 @@
 # ListItemsApp
-LinkedList, Abstract, Interface
+LinkedList, Abstract, Interface, Binary Search Tree
 
         // For this challenge, create an abstract class to define items that can be stored in a list
         
